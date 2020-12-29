@@ -12,4 +12,4 @@ Packages : base, httr - 1.4.2, jsonlite-1.6
 Note :
 1. The following functions are a direct translation of the endpoints of the Zomato developers documentation page (https://developers.zomato.com/documentation). 
 2. To use the following ready made functions generate a Zomato Authentication Key at https://developers.zomato.com/api .
-3. The following functions has been developed in R
+3. These are simple scalable functions that can be implemented to develop automated data mining / data science engines. 
